@@ -1,5 +1,6 @@
 - 前言
     - [简介](zh-cn/README.md)
+- 收藏书单
+    - [微信读书](https://weread.qq.com/)
 - 极客时间
   - [专栏](zh-cn/极客时间专栏.md)
-    
