@@ -1,6 +1,8 @@
-- 前言
-    - [简介](zh-cn/README.md)
-- 收藏书单
-    - [微信读书](https://weread.qq.com/)
-- 极客时间
-  - [专栏](zh-cn/极客时间专栏.md)
+- [简介](zh-cn/README.md)
+- [Java](zh-cn/Java.md)
+- [系统设计](zh-cn/系统设计.md)
+- [常见框架](zh-cn/常见框架.md)
+- [大数据](zh-cn/大数据.md)
+- [数据库](zh-cn/数据库.md)
+- [AI](zh-cn/AI.md)
+- [极客时间专栏](zh-cn/极客时间专栏.md)
